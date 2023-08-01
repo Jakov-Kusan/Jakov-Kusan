@@ -1,6 +1,11 @@
 ##### Welcome
 
-- I’m currently learning python
-- Don't be afraid to clone my repositories
-
+## I’m currently learning
+- Python
+- Go
+- C
+## I’m intrested in
+- Programming video games
+- Linux operating system
+- Mathematics
 
